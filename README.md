@@ -1,7 +1,3 @@
----
-maintainer: @mortench3000
----
-
 # Free Kubernetes cluster on Oracle Cloud with Terraform - Eficode modifications
 
 This repository serves as a working improvement over the original great work done by Arnold as described below. While the original repository was supporting a short series of blog post, the ambition is now to take it a bit further and improve it with automation and adding monitoring and applications to the cluster.
